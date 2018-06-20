@@ -4,7 +4,7 @@ import java.util.Vector;
 
 public class Main {
 	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in); 
+		Scanner in = new Scanner(System.in);
 		int n = 0;
 		Vector<String> v = new Vector<String>();
 		String str = "";
